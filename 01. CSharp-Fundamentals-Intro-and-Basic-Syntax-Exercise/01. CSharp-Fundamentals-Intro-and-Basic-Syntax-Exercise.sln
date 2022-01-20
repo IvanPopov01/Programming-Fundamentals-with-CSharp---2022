@@ -15,13 +15,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Login", "5. Login\5. Log
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Strong number", "6. Strong number\6. Strong number.csproj", "{216C8972-FA78-468A-BCEC-EB0440937ADE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Vending Machine", "7. Vending Machine\7. Vending Machine.csproj", "{B79F7F90-FDC1-4685-A74B-6020D0A7016F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Vending Machine", "7. Vending Machine\7. Vending Machine.csproj", "{B79F7F90-FDC1-4685-A74B-6020D0A7016F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Triangle of Numbers", "8. Triangle of Numbers\8. Triangle of Numbers.csproj", "{DB6D488E-AB46-4104-9452-267EA2D25D60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8. Triangle of Numbers", "8. Triangle of Numbers\8. Triangle of Numbers.csproj", "{DB6D488E-AB46-4104-9452-267EA2D25D60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Padawan Equipment", "9. Padawan Equipment\9. Padawan Equipment.csproj", "{B96BE307-8CD6-4EDB-873C-2C909A32F98F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9. Padawan Equipment", "9. Padawan Equipment\9. Padawan Equipment.csproj", "{B96BE307-8CD6-4EDB-873C-2C909A32F98F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Rage Expenses", "10. Rage Expenses\10. Rage Expenses.csproj", "{97CCE59E-6E67-427B-AEC4-257B29774335}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. Rage Expenses", "10. Rage Expenses\10. Rage Expenses.csproj", "{97CCE59E-6E67-427B-AEC4-257B29774335}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Orders", "11. Orders\11. Orders.csproj", "{A9808704-2982-46CB-9D13-B4DCC25AEAED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{97CCE59E-6E67-427B-AEC4-257B29774335}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97CCE59E-6E67-427B-AEC4-257B29774335}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97CCE59E-6E67-427B-AEC4-257B29774335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9808704-2982-46CB-9D13-B4DCC25AEAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9808704-2982-46CB-9D13-B4DCC25AEAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9808704-2982-46CB-9D13-B4DCC25AEAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9808704-2982-46CB-9D13-B4DCC25AEAED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
